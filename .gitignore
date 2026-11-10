@@ -1,0 +1,4 @@
+.venv/
+agente_json/
+__pycache__/
+.ruff_cache/
